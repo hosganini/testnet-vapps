@@ -3,14 +3,14 @@
 ## Verification
 ```yaml
 github_username: "hosganini"
-discord_id: "taroli24"
+discord_id: "chenchen8289"
 timestamp: "2025-08-29"
 ```
 
 ## Developer
 - **Name**: hosganini
 - **GitHub**: @hosganini
-- **Discord**: taroli24
+- **Discord**: chenchen8289
 - **Experience**: Familiar with DeFi protocols and liquidity mechanics, with hands-on experience analyzing user flows and pain points in lending/borrowing platforms.
 
 ## Project
